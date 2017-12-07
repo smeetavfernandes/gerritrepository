@@ -1,0 +1,2 @@
+# gerritrepository
+checking gerrit setup
